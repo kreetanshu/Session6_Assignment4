@@ -1,0 +1,15 @@
+1) Conditionals can be denoted in single line using
+a) Ternary operator
+
+2)Which are loops in Ruby
+c) both
+
+3)Ranges are used in
+b) case statement
+
+4)Unless condition is used as an alternate of
+b) if condition
+
+
+5)Until is used as an alternate for
+c) While
